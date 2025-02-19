@@ -1,5 +1,5 @@
 
-# SmartPhone APis 
+# SmartHome APIs 
 
 SmartHomeAPIs
 
